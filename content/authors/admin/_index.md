@@ -54,7 +54,7 @@ social:
     link: https://scholar.google.com/citations?user=sq8wiLoAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/asmi372
+    link: https://github.com/AndrewJDSmith
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/andrew-smith-08614958/
