@@ -73,7 +73,7 @@ email: 'andrew.james.dearing.smith@emory.edu'
 highlight_name: true
 ---
 
-I am a health economist and lawyer, and I am currently finishing my PhD in economics at Emory University. My research interests include health, labor, and industrial organization. In particular, my research focuses on medical malpractice, scope of practice regulations, and the healthcare industry.
+I am an economist and lawyer, and I am currently finishing my PhD in economics at Emory University. My research interests include health, labor, and industrial organization. In particular, my research focuses on medical malpractice, scope of practice regulations, and the healthcare industry.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Smith_Andrew_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
