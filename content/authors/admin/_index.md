@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Economics
       instituion: Emory University
-      year: 2023, Expected
+      year: 2024, Expected
     - course: MA in Economics
       institution: Emory University
       year: 2021
