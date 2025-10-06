@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Andrew J.D. Smith</title>
+    <link>https://andrewjdsmith.github.io/publication_types/article-journal/</link>
+      <atom:link href="https://andrewjdsmith.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andrewjdsmith.github.io/media/icon_hu_fe933ace8a2dd71b.png</url>
+      <title>Article-Journal</title>
+      <link>https://andrewjdsmith.github.io/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Nurse practitioner oversight ratios and labor market outcomes</title>
+      <link>https://andrewjdsmith.github.io/publication/2025_or.paper/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewjdsmith.github.io/publication/2025_or.paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurse practitioner scope of practice and patient harm: Evidence from medical malpractice payouts and adverse action reports</title>
+      <link>https://andrewjdsmith.github.io/publication/2024_sop.medmal/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://andrewjdsmith.github.io/publication/2024_sop.medmal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric power resource “shuffling” and subnational carbon regulation: Looking upstream for a solution</title>
+      <link>https://andrewjdsmith.github.io/publication/2014_carbon.shuffling/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://andrewjdsmith.github.io/publication/2014_carbon.shuffling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
